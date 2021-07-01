@@ -6,9 +6,12 @@
 ! Homepage: https://github.com/sin22766/SinEasylist/
 
 manga00.com###ads_fox_bottom
+manga00.com##.ads_area
 cat-translator.com##.advanced_floating_content
 cat-translator.com##.c-top-sidebar
 cat-translator.com###custom_html-50
+anime-hayai.com##.header-ads
+anime-hayai.com##.ads-banner
 anime-hayai.com##.bottom-2x
 kingsmanga.net##.new-kingsmanga-section
 kingsmanga.net###text-20
@@ -18,3 +21,13 @@ animekimi.com###animekimiads1
 animekimi.com###animekimiads2
 animekimi.com###animekimiads3
 animekimi.com###animekimiads4
+anime-sugoi.com###bt-ads
+animesiam.com###gmod
+animesiam.com###left_gmod
+animesiam.com##.gg
+animesiam.com##.code-block-1
+animesiam.com##.code-block-2
+anime-tomu.com##.dessert-frame
+anime-tomu.com###custom_html-7
+anime-tomu.com###custom_html-12
+
