@@ -29,5 +29,8 @@ animesiam.com##.code-block-1
 animesiam.com##.code-block-2
 anime-tomu.com##.dessert-frame
 anime-tomu.com###custom_html-7
+anime-tomu.com###custom_html-8
+anime-tomu.com###custom_html-11
 anime-tomu.com###custom_html-12
+anime-tomu.com###m-doo-banner
 
