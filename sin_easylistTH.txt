@@ -1,0 +1,13 @@
+manga00.com###ads_fox_bottom
+cat-translator.com##.advanced_floating_content
+cat-translator.com##.c-top-sidebar
+cat-translator.com###custom_html-50
+anime-hayai.com##.bottom-2x
+kingsmanga.net##.new-kingsmanga-section
+kingsmanga.net###text-20
+||i.imgur.com/VYO8LfJ.gif
+||i.imgur.com/Ml22f0Z.gif
+animekimi.com###animekimiads1
+animekimi.com###animekimiads2
+animekimi.com###animekimiads3
+animekimi.com###animekimiads4
