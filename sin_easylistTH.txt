@@ -33,4 +33,7 @@ anime-tomu.com###custom_html-8
 anime-tomu.com###custom_html-11
 anime-tomu.com###custom_html-12
 anime-tomu.com###m-doo-banner
+||hentaithai.com/banner/topic_top_*
+||hentaithai.com/banner/topic_side
+||hentaithai.com/banner/topic_pre
 
