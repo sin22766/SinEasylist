@@ -7,9 +7,13 @@
 
 manga00.com###ads_fox_bottom
 manga00.com##.ads_area
-cat-translator.com##.advanced_floating_content
-cat-translator.com##.c-top-sidebar
-cat-translator.com###custom_html-50
+cats-translator.com###custom_html-34
+cats-translator.com###custom_html-50
+cats-translator.com###bottom_center_ads
+cats-translator.com##.advanced_floating_content
+mangauptocats.net###custom_html-31
+mangauptocats.net###custom_html-33
+mangauptocats.net###upcat_ads1
 anime-hayai.com##.header-ads
 anime-hayai.com##.ads-banner
 anime-hayai.com##.bottom-2x
