@@ -42,5 +42,5 @@ anime-tomu.com###m-doo-banner
 ||hentaithai.com/banner/topic_pre
 rh2plusmanga.com##.ads
 rh2plusmanga.com##.ads-float
-miku-doujin.com##.mb-3.text-center.containe
+miku-doujin.com##.mb-3.text-center.container
 miku-doujin.com##.card-body > .mb-3.text-center
