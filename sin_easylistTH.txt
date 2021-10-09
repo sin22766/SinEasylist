@@ -43,3 +43,4 @@ anime-tomu.com###m-doo-banner
 rh2plusmanga.com##.ads
 rh2plusmanga.com##.ads-float
 miku-doujin.com##.mb-3.text-center.containe
+miku-doujin.com##.card-body > .mb-3.text-center
