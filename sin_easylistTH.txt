@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
 ! Title: Sin EasyList Thailand
-! Version: 20260427
-! Last modified: 27 April 2026 12:00 +0700
+! Version: 20260427_2315
+! Last modified: 27 April 2026 23:15 +0700
 ! Expires: 3000 days
 ! Homepage: https://github.com/sin22766/SinEasylist/
  
