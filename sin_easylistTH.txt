@@ -1,48 +1,118 @@
 [Adblock Plus 2.0]
 ! Title: Sin EasyList Thailand
-! Version: 20210701
-! Last modified: 15 December 2022 12:23 +0700
+! Version: 20260427
+! Last modified: 27 April 2026 12:00 +0700
 ! Expires: 3000 days
 ! Homepage: https://github.com/sin22766/SinEasylist/
-
-manga00.com###ads_fox_bottom
-manga00.com##.ads_area
-cats-translator.com###custom_html-34
-cats-translator.com###custom_html-50
-cats-translator.com###bottom_center_ads
-cats-translator.com##.advanced_floating_content
-mangauptocats.net###custom_html-31
-mangauptocats.net###custom_html-33
-mangauptocats.net###upcat_ads1
-anime-hayai.com##.header-ads
-anime-hayai.com##.ads-banner
-anime-hayai.com##.bottom-2x
-kingsmanga.net##.new-kingsmanga-section
-kingsmanga.net###text-20
-||i.imgur.com/VYO8LfJ.gif
-||i.imgur.com/Ml22f0Z.gif
+ 
+! ===== Anime Sites =====
+ 
+! animekimi.com
 animekimi.com###animekimiads1
 animekimi.com###animekimiads2
 animekimi.com###animekimiads3
 animekimi.com###animekimiads4
+ 
+! anime-sugoi.com
 anime-sugoi.com###bt-ads
+ 
+! animesiam.com
 animesiam.com###gmod
 animesiam.com###left_gmod
 animesiam.com##.gg
 animesiam.com##.code-block-1
 animesiam.com##.code-block-2
-anime-tomu.com##.dessert-frame
-anime-tomu.com###custom_html-7
-anime-tomu.com###custom_html-8
-anime-tomu.com###custom_html-11
-anime-tomu.com###custom_html-12
-anime-tomu.com###m-doo-banner
+ 
+! ===== Manga Sites =====
+ 
+! cats-translator.com
+cats-translator.com###custom_html-34
+cats-translator.com###custom_html-50
+cats-translator.com###bottom_center_ads
+cats-translator.com##.advanced_floating_content
+ 
+! demonicscans.org
+demonicscans.org###teaser3
+demonicscans.org###pf-10330-1
+demonicscans.org###pf-10331-1
+demonicscans.org###pf-10585-1
+demonicscans.org###pf-10586-1
+demonicscans.org###pf-10587-1
+demonicscans.org##.payment-widget
+demonicscans.org##iframe
+ 
+! god-manga.com
+god-manga.com##.header > center
+god-manga.com##.ads
+ 
+! kingsmanga.net
+kingsmanga.net##.new-kingsmanga-section
+kingsmanga.net###text-20
+ 
+! manga00.com
+manga00.com###ads_fox_bottom
+manga00.com##.ads_area
+ 
+! manga168.com (rules commented out by upstream — kept as reference)
+! manga168.com##.dessert-frame
+ 
+! mangafin.net
+mangafin.net###advanced_floating_content_3602
+mangafin.net###advanced_floating_content_3604
+mangafin.net##.widget_custom_html.heading-style-1.no-icon.default.col-md-12.col-12.widget.widget_text
+ 
+! manga-lc.net
+manga-lc.net##.floating_content
+ 
+! manga-uptocats.com
+manga-uptocats.com###custom_html-31
+manga-uptocats.com###custom_html-33
+manga-uptocats.com###upcat_ads1
+manga-uptocats.com###upcat_ads2
+manga-uptocats.com###upcat_ads3
+manga-uptocats.com##.floating_content
+manga-uptocats.com##.floating_content_1
+ 
+! mangauptocats.net
+mangauptocats.net###custom_html-31
+mangauptocats.net###custom_html-33
+mangauptocats.net###upcat_ads1
+ 
+! manga-za.net
+manga-za.net##.ads-info
+manga-za.net##.text-center.mt-ad
+ 
+! miku-doujin.com
+miku-doujin.com##.mb-3.text-center.container
+miku-doujin.com##.card-body > .mb-3.text-center
+ 
+! moodtoon.com
+moodtoon.com##.text-center.mt-ad
+moodtoon.com##.ads-info
+ 
+! reapertrans.com
+reapertrans.com##.floating_content
+reapertrans.com##.text-center.th-ban
+ 
+! up-manga.com
+www.up-manga.com##.center_upmangasolo3
+www.up-manga.com##.center_upmanga3
+www.up-manga.com###sticky-bottom
+www.up-manga.com##.floating_content
+ 
+! ===== Cat/Multi-Content Sites =====
+ 
+! cat300.com
+cat300.com##.floating_content
+cat300.com###custom_html-3
+ 
+! hentaithai.com
 ||hentaithai.com/banner/topic_top_*
 ||hentaithai.com/banner/topic_side
 ||hentaithai.com/banner/topic_pre
-rh2plusmanga.com##.ads
-rh2plusmanga.com##.ads-float
-miku-doujin.com##.mb-3.text-center.container
-miku-doujin.com##.card-body > .mb-3.text-center
-god-manga.com##.header > center
-god-manga.com##.ads
+ 
+! ===== Generic Resource Blocks =====
+ 
+! imgur — known ad GIFs used across Thai sites
+||i.imgur.com/VYO8LfJ.gif
+||i.imgur.com/Ml22f0Z.gif
