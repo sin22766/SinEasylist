@@ -116,3 +116,12 @@ cat300.com###custom_html-3
 ! imgur — known ad GIFs used across Thai sites
 ||i.imgur.com/VYO8LfJ.gif
 ||i.imgur.com/Ml22f0Z.gif
+
+! ===== Invisible Overlay Ad Iframes =====
+
+! acscdn.com — injects transparent full-page click-hijack iframe
+||acscdn.com^
+
+! Cosmetic fallback — catch invisible fixed-position overlay iframes
+##iframe[style*="opacity: 0"][style*="position: fixed"]
+
